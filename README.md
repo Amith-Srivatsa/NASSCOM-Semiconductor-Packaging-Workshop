@@ -6,23 +6,6 @@ This repository presents a complete hands-on journey through semiconductor packa
 
 ---
 
-## Modules 
-
-### **Module 1: Introduction to Semiconductor Packaging**
-Provides a foundational overview of IC packaging in modern electronics.
-
-### **Module 2: Packaging Materials and Layer Stack-Up**
-Covers the key materials and their electrical, thermal, and mechanical roles.
-
-### **Module 3: Packaging Processes and Assembly Flow**
-Details of the assembly and manufacturing flow used in OSAT environments.
-
-### **Module 4: Ensuring Package Reliability – Testing and Performance Evaluation**
-Focuses on electrical testing, system validation, and reliability assurance.
-
-### **Module 5: Package Design and Modeling – Building from Scratch in Ansys AEDT**
-A hands-on 3D modeling lab for designing a wire bond IC package cross-section.
-
 #### Package Stack Details:
 
 | Component             | Material          | Dimensions            | Thickness/Height |
